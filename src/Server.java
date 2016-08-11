@@ -7,12 +7,9 @@ import Utils.NetWorkIP;
 import Utils.Storage;
 import json.JSONException;
 import json.JSONObject;
-import sun.misc.BASE64Decoder;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.awt.image.BufferedImage;
 import java.io.*;
 import java.net.ServerSocket;
@@ -142,11 +139,9 @@ public class Server {
         mUserJPanel.add(new JLabel());
         mUserJPanel.add(mLabel3);
 
-
         panel2.add(mJPanel,BorderLayout.NORTH);
         panel2.add(panel5,BorderLayout.CENTER);
         panel2.add(panel3,BorderLayout.SOUTH);
-
 
         serverJFrame.setLayout(new BorderLayout(2,0));
         serverJFrame.add(panel2,BorderLayout.CENTER);
@@ -164,6 +159,7 @@ public class Server {
         mColor = stopButton.getBackground();
     }
 }
+
 class ServerReceiverThread implements Runnable{
 
     static ServerSocket ss = null;
@@ -206,29 +202,29 @@ class ServerReceiverThread implements Runnable{
                                  * 打开文件
                                  */
                                 String path = jsonObject.get("path").toString();
-                                Runtime.getRuntime().exec("cmd /c start " + path);
+                                Runtime.getRuntime().exec("cmd /c start \"\" \"" + path + "\"");
                             } else {
                                 Socket driverSocket = ss.accept();
                                 BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(driverSocket.getOutputStream()));
                                 OutputStream os;
-                                StringBuilder builder = new StringBuilder("{'result':'success',");
+                                StringBuilder builder = new StringBuilder("{\"result\":\"success\",");
                                 Storage storage = new Storage();
                                 switch (jsonObject.get("operation").toString()){
                                     case "getDisk" :
                                         List<Map<String, String>> list = storage.getDriver();
-                                        builder.append("'driver':[");
+                                        builder.append("\"driver\":[");
                                         for (int i = 0; i < list.size(); i++) {
                                             builder.append("{")
-                                                    .append("'diskName':'")
+                                                    .append("\"diskName\":\"")
                                                     .append(list.get(i).get("diskName"))
-                                                    .append("','totalSize':'")
+                                                    .append("\",\"totalSize\":\"")
                                                     .append(list.get(i).get("totalSize"))
-                                                    .append("','availableSize':'")
+                                                    .append("\",\"availableSize\":\"")
                                                     .append(list.get(i).get("availableSize"));
                                             if (i == list.size() - 1) {
-                                                builder.append("'}]}");
+                                                builder.append("\"}]}");
                                             } else {
-                                                builder.append("'},");
+                                                builder.append("\"},");
                                             }
                                         }
                                         writer.write(builder.toString());
@@ -238,25 +234,25 @@ class ServerReceiverThread implements Runnable{
                                         File [] files = new File(jsonObject.get("path").toString()).listFiles();
                                         if(files != null && files.length != 0){
                                             System.out.println(files.length);
-                                            builder.append("'file':[");
+                                            builder.append("\"file\":[");
                                             for (int i = 0; i < files.length; i++) {
                                                 System.out.println(files[i].getPath());
                                                 if(files[i].canRead()) {
                                                     builder.append("{")
-                                                            .append("'fileName':'")
+                                                            .append("\"fileName\":\"")
                                                             .append(files[i].getName())
-                                                            .append("','filePath':'")
+                                                            .append("\",\"filePath\":\"")
                                                             .append(files[i].getAbsolutePath());
                                                     if (files[i].isFile()) {
                                                         FileInputStream fis = new FileInputStream(files[i]);
-                                                        builder.append("','fileStyle':'")
+                                                        builder.append("\",\"fileStyle\":\"")
                                                                 .append("file")
-                                                                .append("','fileLength':'")
+                                                                .append("\",\"fileLength\":\"")
                                                                 .append(storage.formatFileSize(fis.available()));
                                                     } else {
-                                                        builder.append("','fileStyle':'")
+                                                        builder.append("\",\"fileStyle\":\"")
                                                                 .append("directory")
-                                                                .append("','fileLength':'");
+                                                                .append("\",\"fileLength\":\"");
                                                         File[] childFiles = files[i].listFiles();
                                                         if (childFiles != null) {
                                                             builder.append(childFiles.length);
@@ -265,14 +261,14 @@ class ServerReceiverThread implements Runnable{
                                                         }
                                                     }
                                                     if (i == files.length - 1) {
-                                                        builder.append("'}]}");
+                                                        builder.append("\"}]}");
                                                     } else {
-                                                        builder.append("'},");
+                                                        builder.append("\"},");
                                                     }
                                                 }
                                             }
                                         } else {
-                                            builder.append("'file':'null'}");
+                                            builder.append("\"file\":\"null\"}");
                                         }
                                         writer.write(builder.toString());
                                         writer.close();
@@ -321,7 +317,7 @@ class ServerReceiverThread implements Runnable{
                     Socket fileSocket = ss.accept();
                     InputStream is = fileSocket.getInputStream();
                     FileOutputStream os = new FileOutputStream(file.getPath() + '/' + fileName);
-                    byte[] c = new byte[1024 * 10];
+                    byte[] c = new byte[1024 * 100];
                     int b;
                     while ((b = is.read(c)) > 0) {
                         os.write(c, 0, b);
@@ -344,8 +340,8 @@ class ServerReceiverThread implements Runnable{
             JSONObject object = new JSONObject(data);
             switch (object.get("type").toString()){
                 case "move" :
-                    mouse.move(Integer.parseInt(object.get("width").toString()) * 3,
-                            Integer.parseInt(object.get("height").toString()) * 3);
+                    mouse.move(Integer.parseInt(object.get("width").toString()),
+                            Integer.parseInt(object.get("height").toString()));
                     break;
                 case "singleClick" :
                     mouse.singleClick();
@@ -408,4 +404,3 @@ class ServerReceiverThread implements Runnable{
     }
 
 }
-
