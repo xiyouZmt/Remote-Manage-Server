@@ -1,15 +1,12 @@
-import java.awt.Color;
-import java.awt.Graphics;
-import java.awt.Graphics2D;
-import java.awt.image.BufferedImage;
-import java.io.File;
-import java.io.IOException;
-import java.io.UnsupportedEncodingException;
-
-import javax.imageio.ImageIO;
+package lib;
 
 import com.swetake.util.Qrcode;
 
+import javax.imageio.ImageIO;
+import java.awt.*;
+import java.awt.image.BufferedImage;
+import java.io.File;
+import java.io.IOException;
 
 public class Qr {
 	public static Graphics getQrCode(String path,String content) throws IOException {

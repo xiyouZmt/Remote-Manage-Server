@@ -9,6 +9,7 @@ import java.net.NetworkInterface;
 import java.util.Enumeration;
 
 public class NetWorkIP {
+
     public String getIP(){
         Enumeration allNetInterfaces = null;
         try {

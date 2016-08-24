@@ -7,7 +7,9 @@ import Utils.NetWorkIP;
 import Utils.Storage;
 import json.JSONException;
 
-import javax.swing.*;import json.JSONObject;
+import javax.swing.*;
+import json.JSONObject;
+import lib.Qr;
 
 import java.awt.*;
 import java.awt.image.BufferedImage;
@@ -28,9 +30,7 @@ public class Server {
     public static void main(String[] args) {
         JFrame serverJFrame = new JFrame();
         init();
-
         JPanel panel2 = new JPanel(new BorderLayout(3,0));
-
         JPanel panel3 = new JPanel(new FlowLayout());
         beginButton.addActionListener(arg0 -> {
             new Thread(new ServerReceiverThread()).start();
@@ -38,7 +38,6 @@ public class Server {
             stopButton.setBackground(mColor);
             beginButton.setEnabled(false);
             stopButton.setEnabled(true);
-
         });
         stopButton.addActionListener(arg0 -> {
             try {
@@ -63,7 +62,6 @@ public class Server {
         mJPanel.setSize(300, 50);
 
         JPanel panel1 = new JPanel(new FlowLayout());
-//        JLabel Label1 = new JLabel("网络IP: ");
 
         netWorkIP = new NetWorkIP();
         JLabel IPLabel;
@@ -73,19 +71,8 @@ public class Server {
         } else {
             IPLabel = new JLabel("网络IP: " + netWorkIP.getIP());
         }
-
-
-//        panel1.add(Label1);
         panel1.add(IPLabel);
-
-
         mJPanel.add(panel1);
-
-//        panel2.add(mJPanel,BorderLayout.NORTH);
-//        panel2.add(qrPanel,BorderLayout.CENTER);
-//        panel2.add(panel4,BorderLayout.SOUTH);
-
-
         JPanel panel4 = new JPanel(new FlowLayout());
         JLabel label4 = new JLabel("请扫描二维码");
         panel4.add(label4);
@@ -100,8 +87,6 @@ public class Server {
                     try {
                         System.out.println(netWorkIP.getIP());
                         Qr.getQrCode("image/qr",Server.netWorkIP.getIP());
-
-//    					Qr.getQrCode("image/qr","");
                     } catch (IOException e) {
                         // TODO Auto-generated catch block
                         e.printStackTrace();
@@ -111,18 +96,13 @@ public class Server {
                     ImageIcon icon1 = new ImageIcon(image);
                     g.drawImage(icon1.getImage(),getSize().width/2 - 50,getSize().height/2 - 50, this);
                 }
-
             }
         };
         qrPanel.setPreferredSize(new Dimension(100,100));
-
         JPanel panel5 = new JPanel(new BorderLayout(2,0));
         panel5.setPreferredSize(new Dimension(300,100));
-
         panel5.add(qrPanel,BorderLayout.CENTER);
         panel5.add(panel4,BorderLayout.SOUTH);
-
-
 
         /**
          * 使用说明
@@ -298,16 +278,16 @@ class ServerReceiverThread implements Runnable{
                         case "screenShot" :
                             Mouse mouse = new Mouse();
                             BufferedImage image = mouse.screenShot();
-                            File file = new File("E:/QuickSend");
+                            File file = new File("C:\\Users\\Dangelo\\Desktop");
                             if(!file.exists()){
                                 file.mkdirs();
                             }
-                            mouse.saveScreenShot(image, "E:/QuickSend/ScreenShot-" + getTime() + ".png");
+                            mouse.saveScreenShot(image, "C:\\Users\\Dangelo\\Desktop\\ScreenShot-" + getTime() + ".png");
                             break;
                     }
                 } else {                                            //传输文件
                     String fileName = jsonObject.get("fileName").toString();
-                    File file = new File("E:/QuickSend");
+                    File file = new File("C:\\Users\\Dangelo\\Desktop");
                     if(!file.exists()){
                         file.mkdir();                               //新建文件夹
                     }
