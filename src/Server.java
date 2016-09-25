@@ -6,11 +6,10 @@ import Utils.Mouse;
 import Utils.NetWorkIP;
 import Utils.Storage;
 import json.JSONException;
-
-import javax.swing.*;
 import json.JSONObject;
 import lib.Qr;
 
+import javax.swing.*;
 import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.io.*;
@@ -88,8 +87,7 @@ public class Server {
                         System.out.println(netWorkIP.getIP());
                         Qr.getQrCode("image/qr",Server.netWorkIP.getIP());
                     } catch (IOException e) {
-                        // TODO Auto-generated catch block
-                        e.printStackTrace();
+                        System.out.println(e.toString());
                     }
                     ImageIcon icon = new ImageIcon("image/qr");
                     Image image = icon.getImage().getScaledInstance(100,100, icon.getImage().SCALE_DEFAULT);
@@ -165,7 +163,12 @@ class ServerReceiverThread implements Runnable{
                 if(jsonObject.has("command")) {                     //传输命令
                     switch (jsonObject.get("command").toString()){
                         case "power" :
-                            Runtime.getRuntime().exec(jsonObject.get("type").toString());
+                        case "speech" :
+                            if(jsonObject.get("type").toString().equals("music")){
+                                Runtime.getRuntime().exec("program/Dan Gibson - Nature's Path 自然小径.mp3");
+                            } else {
+                                Runtime.getRuntime().exec(jsonObject.get("type").toString());
+                            }
                             break;
                         case "volume" :
                             volumeOperation(jsonObject.get("type").toString());
@@ -223,7 +226,7 @@ class ServerReceiverThread implements Runnable{
                                                             .append(files[i].getName())
                                                             .append("\",\"filePath\":\"")
                                                             .append(files[i].getAbsolutePath());
-                                                    if (files[i].isFile()) {
+                                                    if (files[i].isFile() && files[i].canWrite()) {
                                                         FileInputStream fis = new FileInputStream(files[i]);
                                                         builder.append("\",\"fileStyle\":\"")
                                                                 .append("file")
@@ -233,7 +236,7 @@ class ServerReceiverThread implements Runnable{
                                                         builder.append("\",\"fileStyle\":\"")
                                                                 .append("directory")
                                                                 .append("\",\"fileLength\":\"");
-                                                        File[] childFiles = files[i].listFiles();
+                                                        File [] childFiles = files[i].listFiles();
                                                         if (childFiles != null) {
                                                             builder.append(childFiles.length);
                                                         } else {
@@ -275,19 +278,20 @@ class ServerReceiverThread implements Runnable{
                         case "tools" :
                             Runtime.getRuntime().exec(jsonObject.get("type").toString());
                             break;
-                        case "screenShot" :
+                        case "screenShot":
                             Mouse mouse = new Mouse();
                             BufferedImage image = mouse.screenShot();
-                            File file = new File("C:\\Users\\Dangelo\\Desktop");
+                            File file = new File("screenshot");
                             if(!file.exists()){
                                 file.mkdirs();
                             }
-                            mouse.saveScreenShot(image, "C:\\Users\\Dangelo\\Desktop\\ScreenShot-" + getTime() + ".png");
+                            System.out.println(file.getPath());
+                            mouse.saveScreenShot(image, file.getAbsolutePath() + "\\screenshot-" + getTime() + ".png");
                             break;
                     }
                 } else {                                            //传输文件
                     String fileName = jsonObject.get("fileName").toString();
-                    File file = new File("C:\\Users\\Dangelo\\Desktop");
+                    File file = new File("download");
                     if(!file.exists()){
                         file.mkdir();                               //新建文件夹
                     }
@@ -361,8 +365,8 @@ class ServerReceiverThread implements Runnable{
 
     private void volumeOperation(String type){
         try {
-            System.out.println("cmd /c start F:/ClickMonitorDDC.exe volume " + type);
-            Runtime.getRuntime().exec("cmd /c start  F:/ClickMonitorDDC.exe volume " + type);
+            System.out.println("cmd /c start program/ClickMonitorDDC.exe volume " + type);
+            Runtime.getRuntime().exec("cmd /c start  program/ClickMonitorDDC.exe volume " + type);
         } catch (IOException e) {
             System.out.println(e.toString());
         }
@@ -370,8 +374,8 @@ class ServerReceiverThread implements Runnable{
 
     private void brightnessOperation(String type){
         try {
-            System.out.println("cmd /c start F:/ClickMonitorDDC.exe volume " + type);
-            Runtime.getRuntime().exec("cmd /c start F:/ClickMonitorDDC.exe brightness " + type);
+            System.out.println("cmd /c start program/ClickMonitorDDC.exe volume " + type);
+            Runtime.getRuntime().exec("cmd /c start program/ClickMonitorDDC.exe brightness " + type);
         } catch (IOException e) {
             System.out.println(e.toString());
         }
