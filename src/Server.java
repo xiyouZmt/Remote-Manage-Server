@@ -220,7 +220,7 @@ class ServerReceiverThread implements Runnable{
                                             builder.append("\"file\":[");
                                             for (int i = 0; i < files.length; i++) {
                                                 System.out.println(files[i].getPath());
-                                                if(files[i].canRead()) {
+                                                if(files[i].canRead() && files[i].canExecute()) {
                                                     builder.append("{")
                                                             .append("\"fileName\":\"")
                                                             .append(files[i].getName())
