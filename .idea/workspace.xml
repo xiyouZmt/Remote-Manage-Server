@@ -7,10 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47f5a326-8d25-45b3-9999-f8c59967a4a9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/download/-b0a2edb4ee5770d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Manager_Server/image/qr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/qr" afterPath="$PROJECT_DIR$/image/qr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Manager_Server/Server.jar" afterPath="$PROJECT_DIR$/out/production/Manager_Server/Server.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Manager_Server/ServerReceiverThread.class" afterPath="$PROJECT_DIR$/out/production/Manager_Server/ServerReceiverThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Manager_Server/image/qr" afterPath="$PROJECT_DIR$/out/production/Manager_Server/image/qr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/可执行文件/image/qr" afterPath="$PROJECT_DIR$/可执行文件/image/qr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Server.java" afterPath="$PROJECT_DIR$/src/Server.java" />
@@ -38,7 +39,7 @@
       <file leaf-file-name="Server.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Server.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="-463">
               <caret line="331" column="26" selection-start-line="331" selection-start-column="26" selection-end-line="331" selection-end-column="26" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -647,7 +648,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1057,7 +1058,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Server.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="-463">
           <caret line="331" column="26" selection-start-line="331" selection-start-column="26" selection-end-line="331" selection-end-column="26" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
