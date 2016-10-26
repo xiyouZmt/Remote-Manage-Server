@@ -165,7 +165,7 @@ class ServerReceiverThread implements Runnable{
                         case "power" :
                         case "speech" :
                             if(jsonObject.get("type").toString().equals("music")){
-                                Runtime.getRuntime().exec("program/Dan Gibson - Nature's Path 自然小径.mp3");
+                                Runtime.getRuntime().exec("src/program/Dan Gibson - Nature's Path 自然小径.mp3");
                             } else {
                                 Runtime.getRuntime().exec(jsonObject.get("type").toString());
                             }
@@ -365,8 +365,8 @@ class ServerReceiverThread implements Runnable{
 
     private void volumeOperation(String type){
         try {
-            System.out.println("cmd /c start program/ClickMonitorDDC.exe volume " + type);
-            Runtime.getRuntime().exec("cmd /c start  program/ClickMonitorDDC.exe volume " + type);
+            System.out.println("src/program/ClickMonitorDDC.exe volume " + type);
+            Runtime.getRuntime().exec("src/program/ClickMonitorDDC.exe volume " + type);
         } catch (IOException e) {
             System.out.println(e.toString());
         }
@@ -374,8 +374,8 @@ class ServerReceiverThread implements Runnable{
 
     private void brightnessOperation(String type){
         try {
-            System.out.println("cmd /c start program/ClickMonitorDDC.exe volume " + type);
-            Runtime.getRuntime().exec("cmd /c start program/ClickMonitorDDC.exe brightness " + type);
+            System.out.println("src/program/ClickMonitorDDC.exe brightness " + type);
+            Runtime.getRuntime().exec("src/program/ClickMonitorDDC.exe brightness " + type);
         } catch (IOException e) {
             System.out.println(e.toString());
         }
