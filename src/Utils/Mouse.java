@@ -35,7 +35,7 @@ public class Mouse {
         point = MouseInfo.getPointerInfo().getLocation();
         point.x += -x;
         point.y += -y;
-        robot.mouseMove(point.x,point.y);       //移动鼠标到x,y位置
+        robot.mouseMove(point.x,point.y);       /**移动鼠标到x,y位置*/
     }
 
     /**

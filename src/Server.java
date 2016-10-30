@@ -227,11 +227,10 @@ class ServerReceiverThread implements Runnable{
                                                             .append("\",\"filePath\":\"")
                                                             .append(files[i].getAbsolutePath());
                                                     if (files[i].isFile() && files[i].canWrite()) {
-                                                        FileInputStream fis = new FileInputStream(files[i]);
                                                         builder.append("\",\"fileStyle\":\"")
                                                                 .append("file")
                                                                 .append("\",\"fileLength\":\"")
-                                                                .append(storage.formatFileSize(fis.available()));
+                                                                .append(storage.formatFileSize(files[i].length()));
                                                     } else {
                                                         builder.append("\",\"fileStyle\":\"")
                                                                 .append("directory")
