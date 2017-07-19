@@ -1,0 +1,82 @@
+09-17 11:33:29:458 DEBUG/	[[BeanRequestDefaultImplInternal::request]] entry Internet request, current time = 1474083209447ms from 1970
+09-17 11:33:29:482 DEBUG/	
+
+//*****
+| [[request::AppInitRequest{deviceId='abb268b24b204550d9561dff475ab76910', version='0', miui_version='null', product_version='6.09.02.805001', miui_type='stable', language='zh', country='CN', screenHeight='1920', device='unknown', androidVersion='6.0.1', model='MI NOTE LTE', screenResolution='1080*1920', screenWidth='1080', screenDensity='2.75', macAes='hpPLjRS8XnytI0OvE/T5lA==', imeiAes='vDgidLrLdWS5rC0VxwQi+g=='} com.android.providers.downloads.ui.api.init.AppInitRequest@e76514c]] 
+| RestAPI URL = http://api.tw06.xlmc.sec.miui.com/api/app/init
+| Params is = 
+|    screenHeight : 1920
+|    language : zh
+|    miui_type : stable
+|    product_version : 6.09.02.805001
+|    callId : 1474083209475
+|    screenDensity : 2.75
+|    device : unknown
+|    macAes : hpPLjRS8XnytI0OvE/T5lA==
+|    screenResolution : 1080*1920
+|    screenWidth : 1080
+|    v : 1.0
+|    sig : 66b8aa32f02a6ea9ef62b3a872f157a0
+|    appId : 6
+|    model : MI NOTE LTE
+|    version : 0
+|    androidVersion : 6.0.1
+|    country : CN
+|    deviceId : abb268b24b204550d9561dff475ab76910
+|    imeiAes : vDgidLrLdWS5rC0VxwQi+g==
+| HTTP Method = 
+|    httpMethod : POST
+| header params = 
+|    Content-Type : application/x-www-form-urlencoded; charset=UTF-8
+| CustomHttpParams = 
+ 
+\\*****
+
+09-17 13:29:02:274 DEBUG/	[[BeanRequestDefaultImplInternal::request]] entry Internet request, current time = 1474090142273ms from 1970
+09-17 13:29:02:287 DEBUG/	
+
+//*****
+| [[request::com.android.providers.downloads.ui.api.rank.RankQueryNewRequest@d71d28f]] 
+| RestAPI URL = http://api.tw06.xlmc.sec.miui.com/api/ad/get
+| Params is = 
+|    timeTick : 1474090142233
+|    callId : 1474090142285
+|    mainName : RaiseRank
+|    v : 1.0
+|    pid : 11
+|    sig : f51b3b67845a4e14f530f97ad02dd6d6
+|    appId : 6
+|    recType : app
+|    deviceId : abb268b24b204550d9561dff475ab76910
+| HTTP Method = 
+|    httpMethod : POST
+| header params = 
+|    Content-Type : application/x-www-form-urlencoded; charset=UTF-8
+| CustomHttpParams = 
+ 
+\\*****
+
+09-19 12:41:47:673 DEBUG/	[[BeanRequestDefaultImplInternal::request]] entry Internet request, current time = 1474260107668ms from 1970
+09-19 12:41:47:684 DEBUG/	
+
+//*****
+| [[request::com.android.providers.downloads.ui.api.rank.RankQueryNewRequest@c6d1f64]] 
+| RestAPI URL = http://api.tw06.xlmc.sec.miui.com/api/ad/get
+| Params is = 
+|    timeTick : 1474260107631
+|    callId : 1474260107683
+|    mainName : RaiseRank
+|    v : 1.0
+|    pid : 11
+|    sig : c6a67a5de71f63b3c1e21b3838a124af
+|    appId : 6
+|    recType : app
+|    deviceId : abb268b24b204550d9561dff475ab76910
+| HTTP Method = 
+|    httpMethod : POST
+| header params = 
+|    Content-Type : application/x-www-form-urlencoded; charset=UTF-8
+| CustomHttpParams = 
+ 
+\\*****
+

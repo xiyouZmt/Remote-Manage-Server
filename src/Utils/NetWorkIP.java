@@ -38,7 +38,7 @@ public class NetWorkIP {
                 }
             }
         }
-        return "暂无网络连接";
+        return "";
     }
 
 }

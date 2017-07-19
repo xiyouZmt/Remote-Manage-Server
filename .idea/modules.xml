@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Manager_Server.iml" filepath="$PROJECT_DIR$/Manager_Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Remote-Manager-Server.iml" filepath="$PROJECT_DIR$/Remote-Manager-Server.iml" />
     </modules>
   </component>
 </project>

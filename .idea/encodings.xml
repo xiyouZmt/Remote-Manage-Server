@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/src/Server.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/Utils/NetWorkIP.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Server.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Utils/Mouse.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Utils/NetWorkIP.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Utils/Storage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/lib/Qr.java" charset="GBK" />
   </component>
 </project>

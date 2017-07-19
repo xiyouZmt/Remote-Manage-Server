@@ -9,30 +9,19 @@ import java.io.File;
 import java.io.IOException;
 
 public class Qr {
-	public static Graphics getQrCode(String path,String content) throws IOException {
+
+	public static Graphics getQrCode(String path, String content) throws IOException {
 		
-		//åˆ›å»ºä¸€ä¸ªQrcodeå¯¹è±¡
-		Qrcode qrcode = new Qrcode();
-		
-		//è®¾ç½®äºŒç»´ç çš„çº é”™èƒ½åŠ›
-		qrcode.setQrcodeEncodeMode('M');
-		//ä»¥äºŒè¿›åˆ¶å­˜å‚¨
-		qrcode.setQrcodeErrorCorrect('B');
-		//è®¾ç½®äºŒè¿›åˆ¶ç‰ˆæœ¬
-		qrcode.setQrcodeVersion(7);
-		//å­—ç¬¦ç¼–ç 
-//		byte[] bt = new String(content.getBytes("ISO-8859-1"),"utf-8").getBytes();
-		byte[] bt = content.getBytes("utf-8");
-		//åˆ›å»ºä¸€ä¸ªå›¾åƒæ•°æ®ç¼“å­˜åŒº(åˆ›å»ºä¸€å¼ çº¸å‡ºæ¥)
-		BufferedImage image = new BufferedImage(140,140,BufferedImage.TYPE_INT_RGB);
-		//åˆ›å»ºä¸€æ”¯ç¬”
-		Graphics2D g = image.createGraphics();
-		//è®¾ç½®äºŒç»´ç èƒŒæ™¯
-		g.setBackground(Color.WHITE);
-		//å¡«å……é¢œè‰²
-		g.fillRect(0,0,140,140);
-		//è®¾ç½®äºŒç»´ç çš„å‰æ™¯è‰²
-		g.setColor(Color.BLACK);
+		Qrcode qrcode = new Qrcode();																					//´´½¨Ò»¸öQrcode¶ÔÏó
+		qrcode.setQrcodeEncodeMode('M');																				//ÉèÖÃ¶þÎ¬ÂëµÄ¾À´íÄÜÁ¦
+		qrcode.setQrcodeErrorCorrect('B');																				//ÒÔ¶þ½øÖÆ´æ´¢
+		qrcode.setQrcodeVersion(7);																						//ÉèÖÃ¶þ½øÖÆ°æ±¾
+		byte[] bt = content.getBytes("utf-8");																//×Ö·û±àÂë
+		BufferedImage image = new BufferedImage(140,140,BufferedImage.TYPE_INT_RGB);						//´´½¨Ò»¸öÍ¼ÏñÊý¾Ý»º´æÇø(´´½¨Ò»ÕÅÖ½³öÀ´)
+		Graphics2D g = image.createGraphics();																			//´´½¨Ò»Ö§±Ê
+		g.setBackground(Color.WHITE);																					//ÉèÖÃ¶þÎ¬Âë±³¾°
+		g.fillRect(0,0,140,140);																		//Ìî³äÑÕÉ«
+		g.setColor(Color.BLACK);																						//ÉèÖÃ¶þÎ¬ÂëµÄÇ°¾°É«
 		if(bt.length > 0) {
 			boolean[][] b = qrcode.calQrcode(bt);
 			for(int i = 0; i < b.length;i++) {

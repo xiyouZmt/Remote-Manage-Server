@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Remote-Manager-Server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Remote_Manager_Server_jar</output-path>
+    <root id="archive" name="Remote-Manager-Server.jar">
+      <element id="module-output" name="Remote-Manager-Server" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/lib/QRCode.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

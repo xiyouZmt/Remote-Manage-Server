@@ -48,13 +48,12 @@ public class Server {
             stopButton.setBackground(Color.WHITE);
             beginButton.setEnabled(true);
             stopButton.setEnabled(false);
-
         });
         panel3.add(beginButton);
         panel3.add(stopButton);
 
         /**
-         * æ‰‹æœºIPä¸ç«¯å£å·JPanel
+         * ÊÖ»úIPÓë¶Ë¿ÚºÅJPanel
          */
         JPanel mJPanel = new JPanel();
         mJPanel.setLayout(new GridLayout(1,0));
@@ -64,25 +63,25 @@ public class Server {
 
         netWorkIP = new NetWorkIP();
         JLabel IPLabel;
-        if(netWorkIP.getIP().equals("æš‚æ— ç½‘ç»œè¿æ¥")) {
+        if(netWorkIP.getIP().equals("")) {
             IPLabel = new JLabel(netWorkIP.getIP());
             beginButton.setEnabled(false);
         } else {
-            IPLabel = new JLabel("ç½‘ç»œIP: " + netWorkIP.getIP());
+            IPLabel = new JLabel("ÍøÂçIP: " + netWorkIP.getIP());
         }
         panel1.add(IPLabel);
         mJPanel.add(panel1);
         JPanel panel4 = new JPanel(new FlowLayout());
-        JLabel label4 = new JLabel("è¯·æ‰«æäºŒç»´ç ");
+        JLabel label4 = new JLabel("ÇëÉ¨Ãè¶şÎ¬Âë");
         panel4.add(label4);
 
         /**
-         * ç”ŸæˆäºŒç»´ç é¢æ¿
+         * Éú³É¶şÎ¬ÂëÃæ°å
          */
         JPanel qrPanel = new JPanel(){
             @Override
             protected void paintComponent(Graphics g) {
-                if(!netWorkIP.getIP().equals("æš‚æ— ç½‘ç»œè¿æ¥")) {
+                if(!netWorkIP.getIP().equals("")) {
                     try {
                         System.out.println(netWorkIP.getIP());
                         Qr.getQrCode("image/qr",Server.netWorkIP.getIP());
@@ -103,12 +102,12 @@ public class Server {
         panel5.add(panel4,BorderLayout.SOUTH);
 
         /**
-         * ä½¿ç”¨è¯´æ˜
+         * Ê¹ÓÃËµÃ÷
          */
         JPanel mUserJPanel = new JPanel(new GridLayout(6,0));
-        JLabel mLabel1 = new JLabel("1. åœ¨å®¢æˆ·ç«¯è¾“å…¥ç½‘ç»œIPåœ°å€;");
-        JLabel mLabel2 = new JLabel("2. ç‚¹å‡»å¼€å¯ï¼Œå¼€å¯è¯¥æœåŠ¡ç«¯ï¼Œç­‰å¾…å®¢æˆ·ç«¯è¿æ¥ï¼›");
-        JLabel mLabel3 = new JLabel("3. ç‚¹å‡»åœæ­¢ï¼Œå…³é—­è¯¥æœåŠ¡ç«¯ã€‚");
+        JLabel mLabel1 = new JLabel("1. ÔÚ¿Í»§¶ËÊäÈëÍøÂçIPµØÖ·;");
+        JLabel mLabel2 = new JLabel("2. µã»÷¿ªÆô,¿ªÆô¸Ã·şÎñ¶Ë,µÈ´ı¿Í»§¶ËÁ¬½Ó;");
+        JLabel mLabel3 = new JLabel("3. µã»÷Í£Ö¹,¹Ø±Õ¸Ã·şÎñ¶Ë;");
 
         mUserJPanel.add(new JLabel());
         mUserJPanel.add(mLabel1);
@@ -131,8 +130,8 @@ public class Server {
     }
 
     private static void init() {
-        beginButton = new JButton("å¼€å¯");
-        stopButton = new JButton("åœæ­¢");
+        beginButton = new JButton("¿ªÆô");
+        stopButton = new JButton("Í£Ö¹");
         stopButton.setEnabled(false);
         mColor = stopButton.getBackground();
     }
@@ -145,10 +144,10 @@ class ServerReceiverThread implements Runnable{
     public void run() {
         try {
             ss = new ServerSocket(30000);
-            System.out.println("æœåŠ¡ç«¯åˆ›å»ºæˆåŠŸ!");
+            System.out.println("Server is running");
             while(true) {
                 Socket socket = ss.accept();
-                System.out.println("å®¢æˆ·ç«¯è¿æ¥æˆåŠŸ!");
+                System.out.println("client is connected");
                 System.out.println(socket.getLocalSocketAddress());
                 BufferedReader reader = new BufferedReader(new InputStreamReader(socket.getInputStream()));
                 StringBuilder str = new StringBuilder();
@@ -160,12 +159,12 @@ class ServerReceiverThread implements Runnable{
                     continue;
                 }
                 JSONObject jsonObject = new JSONObject(str.toString());
-                if(jsonObject.has("command")) {                     //ä¼ è¾“å‘½ä»¤
+                if(jsonObject.has("command")) {                     //´«ÊäÃüÁî
                     switch (jsonObject.get("command").toString()){
                         case "power" :
                         case "speech" :
                             if(jsonObject.get("type").toString().equals("music")){
-                                Runtime.getRuntime().exec("src/program/Dan Gibson - Nature's Path è‡ªç„¶å°å¾„.mp3");
+                                Runtime.getRuntime().exec("program/Dan Gibson - Nature's Path ×ÔÈ»Ğ¡¾¶.mp3");
                             } else {
                                 Runtime.getRuntime().exec(jsonObject.get("type").toString());
                             }
@@ -182,7 +181,7 @@ class ServerReceiverThread implements Runnable{
                         case "driver" :
                             if(jsonObject.get("operation").equals("execute")){
                                 /**
-                                 * æ‰“å¼€æ–‡ä»¶
+                                 * ´ò¿ªÎÄ¼ş
                                  */
                                 String path = jsonObject.get("path").toString();
                                 Runtime.getRuntime().exec("cmd /c start \"\" \"" + path + "\"");
@@ -257,7 +256,7 @@ class ServerReceiverThread implements Runnable{
                                         break;
                                     case "download" :
                                         /**
-                                         * ä¸‹è½½æ–‡ä»¶
+                                         * ÏÂÔØÎÄ¼ş
                                          */
                                         os = driverSocket.getOutputStream();
                                         File file = new File(jsonObject.get("path").toString());
@@ -288,14 +287,14 @@ class ServerReceiverThread implements Runnable{
                             mouse.saveScreenShot(image, file.getAbsolutePath() + "\\screenshot-" + getTime() + ".png");
                             break;
                     }
-                } else {                                            //ä¼ è¾“æ–‡ä»¶
+                } else {                                            //´«ÊäÎÄ¼ş
                     String fileName = jsonObject.get("fileName").toString();
                     File file = new File("download");
                     if(!file.exists()){
-                        file.mkdir();                               //æ–°å»ºæ–‡ä»¶å¤¹
+                        file.mkdir();
                     }
                     /**
-                     * å­—èŠ‚æµè¯»å–æ–‡ä»¶
+                     * ×Ö½ÚÁ÷¶ÁÈ¡ÎÄ¼ş
                      */
                     Socket fileSocket = ss.accept();
                     InputStream is = fileSocket.getInputStream();
@@ -364,8 +363,8 @@ class ServerReceiverThread implements Runnable{
 
     private void volumeOperation(String type){
         try {
-            System.out.println("src/program/ClickMonitorDDC.exe volume " + type);
-            Runtime.getRuntime().exec("src/program/ClickMonitorDDC.exe volume " + type);
+            System.out.println("program/ClickMonitorDDC.exe volume " + type);
+            Runtime.getRuntime().exec("program/ClickMonitorDDC.exe volume " + type);
         } catch (IOException e) {
             System.out.println(e.toString());
         }
@@ -373,8 +372,8 @@ class ServerReceiverThread implements Runnable{
 
     private void brightnessOperation(String type){
         try {
-            System.out.println("src/program/ClickMonitorDDC.exe brightness " + type);
-            Runtime.getRuntime().exec("src/program/ClickMonitorDDC.exe brightness " + type);
+            System.out.println("program/ClickMonitorDDC.exe brightness " + type);
+            Runtime.getRuntime().exec("program/ClickMonitorDDC.exe brightness " + type);
         } catch (IOException e) {
             System.out.println(e.toString());
         }
@@ -385,5 +384,4 @@ class ServerReceiverThread implements Runnable{
         SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH-mm-ss");
         return simpleDateFormat.format(date);
     }
-
 }

@@ -16,16 +16,16 @@ public class Storage {
     private List< Map<String, String> > list;
 
     /**
-     * è·å–ç¡¬ç›˜çš„æ¯ä¸ªç›˜ç¬¦
+     * »ñÈ¡Ó²ÅÌµÄÃ¿¸öÅÌ·û
      */
     public List< Map<String, String> > getDriver(){
-        // å½“å‰æ–‡ä»¶ç³»ç»Ÿç±»
+        // µ±Ç°ÎÄ¼şÏµÍ³Àà
         FileSystemView fsv = FileSystemView.getFileSystemView();
-        // åˆ—å‡ºæ‰€æœ‰windows ç£ç›˜
+        // ÁĞ³öËùÓĞwindows ´ÅÅÌ
         File [] files = File.listRoots();
         System.out.println(files.length);
         list = new ArrayList<>();
-        // æ˜¾ç¤ºç£ç›˜å·æ ‡
+        // ÏÔÊ¾´ÅÅÌ¾í±ê
         for (File file : files) {
             if(!fsv.getSystemDisplayName(file).equals("")){
                 Map<String, String> map = new HashMap<>();
@@ -34,8 +34,8 @@ public class Storage {
                 map.put("availableSize", formatFileSize(file.getFreeSpace()));
                 list.add(map);
                 System.out.print(fsv.getSystemDisplayName(file));
-                System.out.print("æ€»å¤§å°" + formatFileSize(file.getTotalSpace()) + " ");
-                System.out.println("å‰©ä½™" + formatFileSize(file.getFreeSpace()));
+                System.out.print("×Ü´óĞ¡" + formatFileSize(file.getTotalSpace()) + " ");
+                System.out.println("Ê£Óà" + formatFileSize(file.getFreeSpace()));
             }
         }
         return list;
@@ -55,5 +55,4 @@ public class Storage {
         }
         return fileSizeString;
     }
-
 }

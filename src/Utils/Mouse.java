@@ -20,7 +20,7 @@ public class Mouse {
     private final static String DIRECTION_DOWN = "down";
 
     public Mouse() {
-        dimension = Toolkit.getDefaultToolkit().getScreenSize();    //è·å–å±å¹•å°ºå¯¸
+        dimension = Toolkit.getDefaultToolkit().getScreenSize();    //»ñÈ¡ÆÁÄ»³ß´ç
         try {
             robot = new Robot();
         } catch (AWTException e) {
@@ -29,40 +29,40 @@ public class Mouse {
     }
 
     /**
-     * ç§»åŠ¨é¼ æ ‡ä½ç½®
+     * ÒÆ¶¯Êó±êÎ»ÖÃ
      */
     public void move(int x,int y){
         point = MouseInfo.getPointerInfo().getLocation();
         point.x += -x;
         point.y += -y;
-        robot.mouseMove(point.x,point.y);       /**ç§»åŠ¨é¼ æ ‡åˆ°x,yä½ç½®*/
+        robot.mouseMove(point.x,point.y);       /**ÒÆ¶¯Êó±êµ½x,yÎ»ÖÃ*/
     }
 
     /**
-     * å•å‡»
+     * µ¥»÷
      */
     public void singleClick(){
         point = MouseInfo.getPointerInfo().getLocation();
         robot.mouseMove(point.x, point.y);
-        robot.mousePress(InputEvent.BUTTON1_MASK);      //æŒ‰ä¸‹é¼ æ ‡ä¸ŠæŒ‰é”®
-        robot.mouseRelease(InputEvent.BUTTON1_MASK);    //é‡Šæ”¾é¼ æ ‡ä¸ŠæŒ‰é”®
+        robot.mousePress(InputEvent.BUTTON1_MASK);      //°´ÏÂÊó±êÉÏ°´¼ü
+        robot.mouseRelease(InputEvent.BUTTON1_MASK);    //ÊÍ·ÅÊó±êÉÏ°´¼ü
     }
 
     /**
-     * åŒå‡»
+     * Ë«»÷
      */
     public void doubleClick(){
         point = MouseInfo.getPointerInfo().getLocation();
         robot.mouseMove(point.x, point.y);
-        robot.mousePress(InputEvent.BUTTON1_MASK);      //æŒ‰ä¸‹é¼ æ ‡å·¦æŒ‰é”®
-        robot.mouseRelease(InputEvent.BUTTON1_MASK);    //é‡Šæ”¾é¼ æ ‡å·¦æŒ‰é”®
+        robot.mousePress(InputEvent.BUTTON1_MASK);      //°´ÏÂÊó±ê×ó°´¼ü
+        robot.mouseRelease(InputEvent.BUTTON1_MASK);    //ÊÍ·ÅÊó±ê×ó°´¼ü
         robot.delay(100);
-        robot.mousePress(InputEvent.BUTTON1_MASK);      //å†æ¬¡æŒ‰ä¸‹é¼ æ ‡å·¦æŒ‰é”®
-        robot.mouseRelease(InputEvent.BUTTON1_MASK);    //é‡Šæ”¾é¼ æ ‡å·¦æŒ‰é”®
+        robot.mousePress(InputEvent.BUTTON1_MASK);      //ÔÙ´Î°´ÏÂÊó±ê×ó°´¼ü
+        robot.mouseRelease(InputEvent.BUTTON1_MASK);    //ÊÍ·ÅÊó±ê×ó°´¼ü
     }
 
     /**
-     * å³å‡»
+     * ÓÒ»÷
      */
     public void rightClick(){
         point = MouseInfo.getPointerInfo().getLocation();
@@ -73,13 +73,13 @@ public class Mouse {
     }
 
     /**
-     * é¼ æ ‡æ»šè½®çš„æ»‘åŠ¨
+     * Êó±ê¹öÂÖµÄ»¬¶¯
      */
     public void wheel(String direction){
         if(direction.equals(DIRECTION_UP)) {
-            robot.mouseWheel(-1);                       //æ»šè½®ä¸Šæ»‘
+            robot.mouseWheel(-1);                       //¹öÂÖÉÏ»¬
         } else if(direction.equals(DIRECTION_DOWN)){
-            robot.mouseWheel(1);                        //æ»šè½®ä¸‹æ»‘
+            robot.mouseWheel(1);                        //¹öÂÖÏÂ»¬
         }
     }
 
@@ -107,14 +107,14 @@ public class Mouse {
     }
 
     /**
-     * è·å–å±å¹•æˆªå›¾
+     * »ñÈ¡ÆÁÄ»½ØÍ¼
      */
     public BufferedImage screenShot(){
         return robot.createScreenCapture(new Rectangle(0,0,dimension.width, dimension.height));
     }
 
     /**
-     * ä¿å­˜å±å¹•æˆªå›¾
+     * ±£´æÆÁÄ»½ØÍ¼
      */
     public void saveScreenShot(BufferedImage image, String path){
         try {

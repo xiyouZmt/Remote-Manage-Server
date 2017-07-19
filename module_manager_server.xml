@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_manager_server" default="compile.module.manager_server">
+  <dirname property="module.manager_server.basedir" file="${ant.file.module_manager_server}"/>
+  
+  <property name="module.jdk.home.manager_server" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.manager_server" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.manager_server" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.manager_server" value="-encoding GBK -source 8 -target 8 ${compiler.args}"/>
+  
+  <property name="manager_server.output.dir" value="${module.manager_server.basedir}/out/production/Manager_Server"/>
+  <property name="manager_server.testoutput.dir" value="${module.manager_server.basedir}/out/test/Manager_Server"/>
+  
+  <path id="manager_server.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="manager_server.module.production.classpath">
+    <path refid="${module.jdk.classpath.manager_server}"/>
+    <path refid="library.qrcode.classpath"/>
+  </path>
+  
+  <path id="manager_server.runtime.production.module.classpath">
+    <pathelement location="${manager_server.output.dir}"/>
+    <path refid="library.qrcode.classpath"/>
+  </path>
+  
+  <path id="manager_server.module.classpath">
+    <path refid="${module.jdk.classpath.manager_server}"/>
+    <pathelement location="${manager_server.output.dir}"/>
+    <path refid="library.qrcode.classpath"/>
+  </path>
+  
+  <path id="manager_server.runtime.module.classpath">
+    <pathelement location="${manager_server.testoutput.dir}"/>
+    <pathelement location="${manager_server.output.dir}"/>
+    <path refid="library.qrcode.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.manager_server">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.manager_server">
+    <patternset refid="excluded.from.module.manager_server"/>
+  </patternset>
+  
+  <path id="manager_server.module.sourcepath">
+    <dirset dir="${module.manager_server.basedir}">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.manager_server" depends="compile.module.manager_server.production,compile.module.manager_server.tests" description="Compile module Manager_Server"/>
+  
+  <target name="compile.module.manager_server.production" depends="register.custom.compilers" description="Compile module Manager_Server; production classes">
+    <mkdir dir="${manager_server.output.dir}"/>
+    <javac2 destdir="${manager_server.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.manager_server}/javac">
+      <compilerarg line="${compiler.args.manager_server}"/>
+      <bootclasspath refid="manager_server.module.bootclasspath"/>
+      <classpath refid="manager_server.module.production.classpath"/>
+      <src refid="manager_server.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.manager_server"/>
+    </javac2>
+    
+    <copy todir="${manager_server.output.dir}">
+      <fileset dir="${module.manager_server.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.manager_server.tests" depends="register.custom.compilers,compile.module.manager_server.production" description="compile module Manager_Server; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.manager_server" description="cleanup module">
+    <delete dir="${manager_server.output.dir}"/>
+    <delete dir="${manager_server.testoutput.dir}"/>
+  </target>
+</project>

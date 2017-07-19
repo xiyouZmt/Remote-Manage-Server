@@ -1,4 +1,4 @@
 Manifest-Version: 1.0
-Class-Path: Manager_Server\lib\QRCode.jar
+Class-Path: E:\Java\workspace\Manager_Server\src\Server.java
 Main-Class: Server
 

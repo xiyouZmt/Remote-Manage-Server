@@ -1,0 +1,710 @@
+11-17 13:13:03 下午 com.xiaomi.pass [Thread:25119] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-17 13:13:03 下午 com.xiaomi.pass [Thread:25123] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-17 13:13:09 下午 com.xiaomi.pass [Thread:25195] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-17 13:13:09 下午 com.xiaomi.pass [Thread:25199] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-17 13:18:38 下午 com.xiaomi.pass [Thread:25303] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-17 13:18:38 下午 com.xiaomi.pass [Thread:25307] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-17 13:21:18 下午 com.xiaomi.pass [Thread:25419] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-17 13:21:18 下午 com.xiaomi.pass [Thread:25423] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-17 13:21:25 下午 com.xiaomi.pass [Thread:25515] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-17 13:21:25 下午 com.xiaomi.pass [Thread:25519] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-17 13:44:17 下午 com.xiaomi.pass [Thread:25686] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-17 13:44:17 下午 com.xiaomi.pass [Thread:25690] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-17 13:44:26 下午 com.xiaomi.pass [Thread:25818] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-17 13:44:26 下午 com.xiaomi.pass [Thread:25823] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-17 17:50:58 下午 com.xiaomi.pass [Thread:26514] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-17 17:51:06 下午 com.xiaomi.pass [Thread:26615] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-17 17:51:38 下午 com.xiaomi.pass [Thread:26706] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-17 17:51:46 下午 com.xiaomi.pass [Thread:26811] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-17 17:51:51 下午 com.xiaomi.pass [Thread:26814] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-17 17:51:52 下午 com.xiaomi.pass [Thread:26816] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-17 17:51:53 下午 com.xiaomi.pass [Thread:26817] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-17 17:51:53 下午 com.xiaomi.pass [Thread:26818] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-17 20:54:15 下午 com.xiaomi.pass [Thread:27314] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-17 20:54:22 下午 com.xiaomi.pass [Thread:27461] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-17 20:54:25 下午 com.xiaomi.pass [Thread:27465] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-17 20:54:25 下午 com.xiaomi.pass [Thread:27467] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-17 21:05:44 下午 com.xiaomi.pass [Thread:27722] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-17 21:05:44 下午 com.xiaomi.pass [Thread:27726] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-17 21:05:52 下午 com.xiaomi.pass [Thread:27819] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-17 21:05:52 下午 com.xiaomi.pass [Thread:27823] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-18 07:49:31 上午 com.xiaomi.pass [Thread:28979] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-18 07:49:39 上午 com.xiaomi.pass [Thread:29074] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-18 07:49:45 上午 com.xiaomi.pass [Thread:29079] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-18 07:49:46 上午 com.xiaomi.pass [Thread:29081] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-18 08:20:09 上午 com.xiaomi.pass [Thread:29518] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-18 08:20:09 上午 com.xiaomi.pass [Thread:29522] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-18 08:21:39 上午 com.xiaomi.pass [Thread:29695] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-18 08:21:39 上午 com.xiaomi.pass [Thread:29698] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-18 08:21:53 上午 com.xiaomi.pass [Thread:29867] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-18 08:21:53 上午 com.xiaomi.pass [Thread:29871] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-18 08:43:33 上午 com.xiaomi.pass [Thread:30190] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-18 08:43:33 上午 com.xiaomi.pass [Thread:30194] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-18 08:43:44 上午 com.xiaomi.pass [Thread:30363] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-18 08:43:44 上午 com.xiaomi.pass [Thread:30367] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-18 10:18:03 上午 com.xiaomi.pass [Thread:31155] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-18 10:18:11 上午 com.xiaomi.pass [Thread:31251] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-18 10:18:16 上午 com.xiaomi.pass [Thread:31260] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-18 10:18:17 上午 com.xiaomi.pass [Thread:31262] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-18 15:13:42 下午 com.xiaomi.pass [Thread:512] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-18 15:14:01 下午 com.xiaomi.pass [Thread:724] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-18 15:14:01 下午 com.xiaomi.pass [Thread:724] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-18 15:14:01 下午 com.xiaomi.pass [Thread:732] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-18 15:16:48 下午 com.xiaomi.pass [Thread:887] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-18 15:16:48 下午 com.xiaomi.pass [Thread:891] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-18 15:16:54 下午 com.xiaomi.pass [Thread:968] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-18 15:16:54 下午 com.xiaomi.pass [Thread:971] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-25 19:38:25 下午 com.xiaomi.pass [Thread:484] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-25 19:38:39 下午 com.xiaomi.pass [Thread:610] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-25 19:38:39 下午 com.xiaomi.pass [Thread:610] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-25 19:38:39 下午 com.xiaomi.pass [Thread:616] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-25 21:41:28 下午 com.xiaomi.pass [Thread:2176] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-25 21:41:41 下午 com.xiaomi.pass [Thread:2319] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-25 21:41:44 下午 com.xiaomi.pass [Thread:2322] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-25 21:41:46 下午 com.xiaomi.pass [Thread:2324] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-25 21:46:06 下午 com.xiaomi.pass [Thread:2552] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-25 21:46:06 下午 com.xiaomi.pass [Thread:2555] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-25 21:46:42 下午 com.xiaomi.pass [Thread:2634] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-25 21:46:42 下午 com.xiaomi.pass [Thread:2638] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-25 21:51:15 下午 com.xiaomi.pass [Thread:2756] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-25 21:51:15 下午 com.xiaomi.pass [Thread:2759] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-25 21:51:31 下午 com.xiaomi.pass [Thread:2844] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-25 21:51:31 下午 com.xiaomi.pass [Thread:2847] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-25 22:25:07 下午 com.xiaomi.pass [Thread:2986] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-25 22:25:07 下午 com.xiaomi.pass [Thread:2990] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-25 22:26:00 下午 com.xiaomi.pass [Thread:3113] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-25 22:26:00 下午 com.xiaomi.pass [Thread:3116] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-25 22:26:05 下午 com.xiaomi.pass [Thread:3180] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-25 22:26:05 下午 com.xiaomi.pass [Thread:3183] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-26 00:02:09 上午 com.xiaomi.pass [Thread:505] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 00:02:17 上午 com.xiaomi.pass [Thread:644] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-26 00:02:17 上午 com.xiaomi.pass [Thread:644] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 00:02:17 上午 com.xiaomi.pass [Thread:651] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-26 00:16:10 上午 com.xiaomi.pass [Thread:886] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 00:16:10 上午 com.xiaomi.pass [Thread:890] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-26 00:16:20 上午 com.xiaomi.pass [Thread:991] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 00:16:20 上午 com.xiaomi.pass [Thread:995] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-26 11:09:13 上午 com.xiaomi.pass [Thread:2336] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 11:09:17 上午 com.xiaomi.pass [Thread:2442] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 11:18:04 上午 com.xiaomi.pass [Thread:2575] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 11:18:11 上午 com.xiaomi.pass [Thread:2680] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 11:20:06 上午 com.xiaomi.pass [Thread:2823] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 11:28:11 上午 com.xiaomi.pass [Thread:2931] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 11:28:15 上午 com.xiaomi.pass [Thread:2934] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-26 11:28:16 上午 com.xiaomi.pass [Thread:2936] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-26 11:28:16 上午 com.xiaomi.pass [Thread:2936] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-26 11:28:16 上午 com.xiaomi.pass [Thread:2937] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-26 11:28:16 上午 com.xiaomi.pass [Thread:2937] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-26 11:28:16 上午 com.xiaomi.pass [Thread:2937] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-26 12:14:08 下午 com.xiaomi.pass [Thread:3415] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 12:14:08 下午 com.xiaomi.pass [Thread:3418] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-26 12:14:42 下午 com.xiaomi.pass [Thread:3531] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 12:14:42 下午 com.xiaomi.pass [Thread:3535] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-26 12:16:13 下午 com.xiaomi.pass [Thread:3631] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 12:16:13 下午 com.xiaomi.pass [Thread:3635] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-26 12:26:00 下午 com.xiaomi.pass [Thread:3742] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 12:26:00 下午 com.xiaomi.pass [Thread:3746] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-26 12:26:07 下午 com.xiaomi.pass [Thread:3839] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 12:26:08 下午 com.xiaomi.pass [Thread:3843] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-26 12:30:42 下午 com.xiaomi.pass [Thread:3935] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 12:31:04 下午 com.xiaomi.pass [Thread:4039] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 12:35:40 下午 com.xiaomi.pass [Thread:4151] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 12:45:42 下午 com.xiaomi.pass [Thread:4472] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-26 12:45:42 下午 com.xiaomi.pass [Thread:4472] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 12:45:42 下午 com.xiaomi.pass [Thread:4478] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-26 12:45:45 下午 com.xiaomi.pass [Thread:4480] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-26 12:45:46 下午 com.xiaomi.pass [Thread:4481] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-26 13:09:15 下午 com.xiaomi.pass [Thread:4579] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 13:09:16 下午 com.xiaomi.pass [Thread:4582] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-26 13:23:52 下午 com.xiaomi.pass [Thread:4683] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 13:23:52 下午 com.xiaomi.pass [Thread:4686] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-26 13:24:57 下午 com.xiaomi.pass [Thread:4800] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 13:24:57 下午 com.xiaomi.pass [Thread:4803] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-26 13:27:20 下午 com.xiaomi.pass [Thread:4906] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 13:27:20 下午 com.xiaomi.pass [Thread:4911] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-26 15:38:34 下午 com.xiaomi.pass [Thread:5819] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 15:38:43 下午 com.xiaomi.pass [Thread:5915] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 15:51:47 下午 com.xiaomi.pass [Thread:6051] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 15:51:54 下午 com.xiaomi.pass [Thread:6155] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 15:51:57 下午 com.xiaomi.pass [Thread:6158] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-26 15:51:57 下午 com.xiaomi.pass [Thread:6160] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-26 15:51:58 下午 com.xiaomi.pass [Thread:6161] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-26 15:51:58 下午 com.xiaomi.pass [Thread:6162] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-26 18:33:47 下午 com.xiaomi.pass [Thread:7631] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 18:33:54 下午 com.xiaomi.pass [Thread:7719] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 18:34:53 下午 com.xiaomi.pass [Thread:7822] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 18:35:23 下午 com.xiaomi.pass [Thread:7918] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 18:36:57 下午 com.xiaomi.pass [Thread:8015] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 18:37:49 下午 com.xiaomi.pass [Thread:8118] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 18:50:07 下午 com.xiaomi.pass [Thread:8399] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 18:58:05 下午 com.xiaomi.pass [Thread:8671] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 18:58:09 下午 com.xiaomi.pass [Thread:8674] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-26 18:58:09 下午 com.xiaomi.pass [Thread:8676] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-26 18:58:09 下午 com.xiaomi.pass [Thread:8676] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-26 18:58:09 下午 com.xiaomi.pass [Thread:8676] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-26 18:58:09 下午 com.xiaomi.pass [Thread:8676] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-26 18:58:09 下午 com.xiaomi.pass [Thread:8676] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-26 18:58:09 下午 com.xiaomi.pass [Thread:8676] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-26 18:58:10 下午 com.xiaomi.pass [Thread:8677] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-26 19:06:39 下午 com.xiaomi.pass [Thread:8887] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 19:06:39 下午 com.xiaomi.pass [Thread:8890] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-26 19:56:18 下午 com.xiaomi.pass [Thread:9070] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-26 19:56:18 下午 com.xiaomi.pass [Thread:9074] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-27 10:07:45 上午 com.xiaomi.pass [Thread:11875] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 10:07:55 上午 com.xiaomi.pass [Thread:12013] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-27 10:07:55 上午 com.xiaomi.pass [Thread:12013] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 10:07:55 上午 com.xiaomi.pass [Thread:12019] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-27 11:42:14 上午 com.xiaomi.pass [Thread:12575] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 11:47:49 上午 com.xiaomi.pass [Thread:12711] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 11:47:55 上午 com.xiaomi.pass [Thread:12715] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-27 11:47:55 上午 com.xiaomi.pass [Thread:12717] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-27 12:22:28 下午 com.xiaomi.pass [Thread:12962] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 12:22:28 下午 com.xiaomi.pass [Thread:12966] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-27 12:22:57 下午 com.xiaomi.pass [Thread:13062] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 12:22:57 下午 com.xiaomi.pass [Thread:13066] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-27 12:25:38 下午 com.xiaomi.pass [Thread:13200] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 12:25:38 下午 com.xiaomi.pass [Thread:13203] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-27 12:25:45 下午 com.xiaomi.pass [Thread:13295] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 12:25:46 下午 com.xiaomi.pass [Thread:13298] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-27 18:11:20 下午 com.xiaomi.pass [Thread:15315] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 18:11:27 下午 com.xiaomi.pass [Thread:15415] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 18:12:24 下午 com.xiaomi.pass [Thread:15516] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-27 18:12:24 下午 com.xiaomi.pass [Thread:15516] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-27 18:12:24 下午 com.xiaomi.pass [Thread:15516] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 18:12:24 下午 com.xiaomi.pass [Thread:15524] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-27 18:13:57 下午 com.xiaomi.pass [Thread:15590] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 18:13:57 下午 com.xiaomi.pass [Thread:15595] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-27 18:23:38 下午 com.xiaomi.pass [Thread:15703] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 18:23:38 下午 com.xiaomi.pass [Thread:15706] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-27 18:48:59 下午 com.xiaomi.pass [Thread:15995] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 18:48:59 下午 com.xiaomi.pass [Thread:15998] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-27 18:49:05 下午 com.xiaomi.pass [Thread:16111] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 18:49:05 下午 com.xiaomi.pass [Thread:16115] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-27 19:03:36 下午 com.xiaomi.pass [Thread:16238] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 19:03:36 下午 com.xiaomi.pass [Thread:16242] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-27 19:03:44 下午 com.xiaomi.pass [Thread:16363] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 19:03:44 下午 com.xiaomi.pass [Thread:16367] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-27 19:04:22 下午 com.xiaomi.pass [Thread:16490] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 19:04:22 下午 com.xiaomi.pass [Thread:16494] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-27 19:04:27 下午 com.xiaomi.pass [Thread:16591] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 19:04:27 下午 com.xiaomi.pass [Thread:16594] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-27 22:37:57 下午 com.xiaomi.pass [Thread:18959] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 22:38:05 下午 com.xiaomi.pass [Thread:19063] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 22:38:11 下午 com.xiaomi.pass [Thread:19168] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-27 22:38:11 下午 com.xiaomi.pass [Thread:19168] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 22:38:11 下午 com.xiaomi.pass [Thread:19168] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-27 22:56:18 下午 com.xiaomi.pass [Thread:19271] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 22:56:18 下午 com.xiaomi.pass [Thread:19274] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-27 22:56:25 下午 com.xiaomi.pass [Thread:19363] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 22:56:25 下午 com.xiaomi.pass [Thread:19367] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-27 22:57:35 下午 com.xiaomi.pass [Thread:19484] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 22:57:35 下午 com.xiaomi.pass [Thread:19487] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-27 23:00:00 下午 com.xiaomi.pass [Thread:19583] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 23:00:00 下午 com.xiaomi.pass [Thread:19587] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-27 23:01:28 下午 com.xiaomi.pass [Thread:19743] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 23:01:28 下午 com.xiaomi.pass [Thread:19747] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-27 23:01:39 下午 com.xiaomi.pass [Thread:19847] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 23:01:39 下午 com.xiaomi.pass [Thread:19851] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-27 23:02:41 下午 com.xiaomi.pass [Thread:19983] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-27 23:02:41 下午 com.xiaomi.pass [Thread:19987] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 08:50:22 上午 com.xiaomi.pass [Thread:21655] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 08:50:36 上午 com.xiaomi.pass [Thread:21844] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 08:50:36 上午 com.xiaomi.pass [Thread:21844] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 08:50:36 上午 com.xiaomi.pass [Thread:21851] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 08:50:44 上午 com.xiaomi.pass [Thread:21940] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 08:50:44 上午 com.xiaomi.pass [Thread:21943] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 10:02:19 上午 com.xiaomi.pass [Thread:22459] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 10:04:12 上午 com.xiaomi.pass [Thread:22575] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 10:04:16 上午 com.xiaomi.pass [Thread:22578] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 10:04:18 上午 com.xiaomi.pass [Thread:22581] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 10:08:09 上午 com.xiaomi.pass [Thread:22694] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 10:08:09 上午 com.xiaomi.pass [Thread:22698] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 10:10:02 上午 com.xiaomi.pass [Thread:22782] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 10:10:02 上午 com.xiaomi.pass [Thread:22787] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 10:10:52 上午 com.xiaomi.pass [Thread:22895] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 10:10:52 上午 com.xiaomi.pass [Thread:22899] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 10:12:56 上午 com.xiaomi.pass [Thread:22996] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 10:12:56 上午 com.xiaomi.pass [Thread:22999] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 10:13:33 上午 com.xiaomi.pass [Thread:23095] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 10:13:33 上午 com.xiaomi.pass [Thread:23099] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 10:14:06 上午 com.xiaomi.pass [Thread:23203] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 10:14:06 上午 com.xiaomi.pass [Thread:23207] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 10:16:52 上午 com.xiaomi.pass [Thread:23358] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 10:16:52 上午 com.xiaomi.pass [Thread:23363] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 10:17:22 上午 com.xiaomi.pass [Thread:23463] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 10:17:22 上午 com.xiaomi.pass [Thread:23467] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 10:17:56 上午 com.xiaomi.pass [Thread:23568] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 10:17:56 上午 com.xiaomi.pass [Thread:23571] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 10:18:24 上午 com.xiaomi.pass [Thread:23663] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 10:18:24 上午 com.xiaomi.pass [Thread:23667] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 10:19:08 上午 com.xiaomi.pass [Thread:23775] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 10:19:08 上午 com.xiaomi.pass [Thread:23778] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 10:19:28 上午 com.xiaomi.pass [Thread:23874] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 10:19:28 上午 com.xiaomi.pass [Thread:23879] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 10:45:43 上午 com.xiaomi.pass [Thread:24303] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 10:45:43 上午 com.xiaomi.pass [Thread:24306] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 10:45:52 上午 com.xiaomi.pass [Thread:24418] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 10:45:52 上午 com.xiaomi.pass [Thread:24422] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 10:47:36 上午 com.xiaomi.pass [Thread:24506] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 10:47:36 上午 com.xiaomi.pass [Thread:24511] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 10:47:49 上午 com.xiaomi.pass [Thread:24612] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 10:47:49 上午 com.xiaomi.pass [Thread:24615] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 10:54:50 上午 com.xiaomi.pass [Thread:24706] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 10:54:50 上午 com.xiaomi.pass [Thread:24711] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 10:54:57 上午 com.xiaomi.pass [Thread:24811] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 10:54:57 上午 com.xiaomi.pass [Thread:24815] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 12:44:10 下午 com.xiaomi.pass [Thread:25486] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 12:44:49 下午 com.xiaomi.pass [Thread:25595] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 12:46:59 下午 com.xiaomi.pass [Thread:25742] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 12:47:53 下午 com.xiaomi.pass [Thread:25839] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 12:47:57 下午 com.xiaomi.pass [Thread:25842] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 12:47:58 下午 com.xiaomi.pass [Thread:25844] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 12:47:58 下午 com.xiaomi.pass [Thread:25845] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 12:47:59 下午 com.xiaomi.pass [Thread:25847] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 13:07:34 下午 com.xiaomi.pass [Thread:26375] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:07:34 下午 com.xiaomi.pass [Thread:26378] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:07:59 下午 com.xiaomi.pass [Thread:26487] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:07:59 下午 com.xiaomi.pass [Thread:26490] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:09:37 下午 com.xiaomi.pass [Thread:26583] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:09:37 下午 com.xiaomi.pass [Thread:26586] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:11:49 下午 com.xiaomi.pass [Thread:26675] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:11:49 下午 com.xiaomi.pass [Thread:26679] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:26:51 下午 com.xiaomi.pass [Thread:27078] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:26:51 下午 com.xiaomi.pass [Thread:27082] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:26:58 下午 com.xiaomi.pass [Thread:27158] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:26:58 下午 com.xiaomi.pass [Thread:27162] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:27:06 下午 com.xiaomi.pass [Thread:27266] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:27:06 下午 com.xiaomi.pass [Thread:27271] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:27:12 下午 com.xiaomi.pass [Thread:27347] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:27:12 下午 com.xiaomi.pass [Thread:27351] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:27:34 下午 com.xiaomi.pass [Thread:27451] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:27:34 下午 com.xiaomi.pass [Thread:27455] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:39:49 下午 com.xiaomi.pass [Thread:27547] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:39:49 下午 com.xiaomi.pass [Thread:27551] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:40:02 下午 com.xiaomi.pass [Thread:27656] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:40:02 下午 com.xiaomi.pass [Thread:27659] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:40:10 下午 com.xiaomi.pass [Thread:27762] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:40:10 下午 com.xiaomi.pass [Thread:27767] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:40:16 下午 com.xiaomi.pass [Thread:27859] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:40:17 下午 com.xiaomi.pass [Thread:27863] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:41:08 下午 com.xiaomi.pass [Thread:28050] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:41:08 下午 com.xiaomi.pass [Thread:28054] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:44:41 下午 com.xiaomi.pass [Thread:28286] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:44:41 下午 com.xiaomi.pass [Thread:28291] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:44:47 下午 com.xiaomi.pass [Thread:28375] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:44:47 下午 com.xiaomi.pass [Thread:28379] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:45:54 下午 com.xiaomi.pass [Thread:28474] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:45:54 下午 com.xiaomi.pass [Thread:28478] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:46:08 下午 com.xiaomi.pass [Thread:28571] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:46:08 下午 com.xiaomi.pass [Thread:28575] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:46:28 下午 com.xiaomi.pass [Thread:28670] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:46:28 下午 com.xiaomi.pass [Thread:28675] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:46:35 下午 com.xiaomi.pass [Thread:28763] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:46:35 下午 com.xiaomi.pass [Thread:28767] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:47:10 下午 com.xiaomi.pass [Thread:28866] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:47:10 下午 com.xiaomi.pass [Thread:28871] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:48:28 下午 com.xiaomi.pass [Thread:28955] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:48:34 下午 com.xiaomi.pass [Thread:28959] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 13:48:43 下午 com.xiaomi.pass [Thread:29151] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:48:44 下午 com.xiaomi.pass [Thread:29155] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:48:50 下午 com.xiaomi.pass [Thread:29255] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:48:50 下午 com.xiaomi.pass [Thread:29259] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:49:03 下午 com.xiaomi.pass [Thread:29435] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:49:03 下午 com.xiaomi.pass [Thread:29439] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:49:11 下午 com.xiaomi.pass [Thread:29527] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:49:11 下午 com.xiaomi.pass [Thread:29531] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:49:17 下午 com.xiaomi.pass [Thread:29622] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:49:17 下午 com.xiaomi.pass [Thread:29627] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:51:07 下午 com.xiaomi.pass [Thread:29714] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:51:07 下午 com.xiaomi.pass [Thread:29718] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:51:22 下午 com.xiaomi.pass [Thread:29820] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:51:22 下午 com.xiaomi.pass [Thread:29823] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:51:31 下午 com.xiaomi.pass [Thread:29914] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:51:31 下午 com.xiaomi.pass [Thread:29919] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:51:37 下午 com.xiaomi.pass [Thread:30007] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:51:37 下午 com.xiaomi.pass [Thread:30011] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:51:43 下午 com.xiaomi.pass [Thread:30094] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:51:43 下午 com.xiaomi.pass [Thread:30099] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 13:59:15 下午 com.xiaomi.pass [Thread:30195] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 13:59:15 下午 com.xiaomi.pass [Thread:30198] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 14:02:25 下午 com.xiaomi.pass [Thread:30294] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 14:02:25 下午 com.xiaomi.pass [Thread:30299] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 14:02:32 下午 com.xiaomi.pass [Thread:30399] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 14:02:32 下午 com.xiaomi.pass [Thread:30403] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 14:02:54 下午 com.xiaomi.pass [Thread:30483] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 14:02:54 下午 com.xiaomi.pass [Thread:30487] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 14:30:29 下午 com.xiaomi.pass [Thread:30627] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 14:30:29 下午 com.xiaomi.pass [Thread:30630] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 14:30:36 下午 com.xiaomi.pass [Thread:30715] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 14:30:36 下午 com.xiaomi.pass [Thread:30718] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 14:31:20 下午 com.xiaomi.pass [Thread:30795] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 14:31:20 下午 com.xiaomi.pass [Thread:30799] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 14:31:37 下午 com.xiaomi.pass [Thread:30883] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 14:31:37 下午 com.xiaomi.pass [Thread:30887] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 14:38:24 下午 com.xiaomi.pass [Thread:31179] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 14:38:24 下午 com.xiaomi.pass [Thread:31182] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 14:38:51 下午 com.xiaomi.pass [Thread:31299] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 14:38:51 下午 com.xiaomi.pass [Thread:31303] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 14:53:09 下午 com.xiaomi.pass [Thread:31422] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 14:53:16 下午 com.xiaomi.pass [Thread:31524] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 14:53:23 下午 com.xiaomi.pass [Thread:31527] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 14:53:25 下午 com.xiaomi.pass [Thread:31529] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 15:58:25 下午 com.xiaomi.pass [Thread:32195] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 15:58:39 下午 com.xiaomi.pass [Thread:32298] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 16:14:39 下午 com.xiaomi.pass [Thread:32567] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 16:14:52 下午 com.xiaomi.pass [Thread:32667] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 16:18:39 下午 com.xiaomi.pass [Thread:32807] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 16:18:57 下午 com.xiaomi.pass [Thread:32898] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 16:19:12 下午 com.xiaomi.pass [Thread:32908] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 16:19:13 下午 com.xiaomi.pass [Thread:32910] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 16:19:13 下午 com.xiaomi.pass [Thread:32911] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 16:19:14 下午 com.xiaomi.pass [Thread:32912] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 16:19:14 下午 com.xiaomi.pass [Thread:32913] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 16:19:19 下午 com.xiaomi.pass [Thread:33167] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 16:19:19 下午 com.xiaomi.pass [Thread:33171] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 16:19:34 下午 com.xiaomi.pass [Thread:33251] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 16:19:34 下午 com.xiaomi.pass [Thread:33255] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 16:40:34 下午 com.xiaomi.pass [Thread:33406] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 16:40:34 下午 com.xiaomi.pass [Thread:33410] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 16:40:48 下午 com.xiaomi.pass [Thread:33507] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 16:40:48 下午 com.xiaomi.pass [Thread:33510] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 16:41:03 下午 com.xiaomi.pass [Thread:33679] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 16:41:03 下午 com.xiaomi.pass [Thread:33683] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 16:41:14 下午 com.xiaomi.pass [Thread:33847] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 16:41:14 下午 com.xiaomi.pass [Thread:33851] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 16:43:38 下午 com.xiaomi.pass [Thread:34014] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 16:43:38 下午 com.xiaomi.pass [Thread:34019] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 16:43:44 下午 com.xiaomi.pass [Thread:34103] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 16:43:44 下午 com.xiaomi.pass [Thread:34107] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 16:51:50 下午 com.xiaomi.pass [Thread:34299] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 16:51:50 下午 com.xiaomi.pass [Thread:34302] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 16:51:58 下午 com.xiaomi.pass [Thread:34399] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 16:51:58 下午 com.xiaomi.pass [Thread:34403] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 16:52:29 下午 com.xiaomi.pass [Thread:34651] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 16:52:29 下午 com.xiaomi.pass [Thread:34655] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 16:52:42 下午 com.xiaomi.pass [Thread:34811] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 16:52:42 下午 com.xiaomi.pass [Thread:34815] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 16:53:26 下午 com.xiaomi.pass [Thread:34943] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 16:53:26 下午 com.xiaomi.pass [Thread:34947] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 16:53:33 下午 com.xiaomi.pass [Thread:35039] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 16:53:33 下午 com.xiaomi.pass [Thread:35043] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 16:53:47 下午 com.xiaomi.pass [Thread:35142] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 16:53:47 下午 com.xiaomi.pass [Thread:35147] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 16:53:53 下午 com.xiaomi.pass [Thread:35240] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 16:53:54 下午 com.xiaomi.pass [Thread:35243] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 17:00:35 下午 com.xiaomi.pass [Thread:35363] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 17:00:35 下午 com.xiaomi.pass [Thread:35366] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 17:00:42 下午 com.xiaomi.pass [Thread:35450] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 17:00:42 下午 com.xiaomi.pass [Thread:35455] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 17:04:01 下午 com.xiaomi.pass [Thread:35583] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 17:04:02 下午 com.xiaomi.pass [Thread:35587] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 17:04:07 下午 com.xiaomi.pass [Thread:35671] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 17:04:07 下午 com.xiaomi.pass [Thread:35675] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 17:28:56 下午 com.xiaomi.pass [Thread:35835] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 17:29:49 下午 com.xiaomi.pass [Thread:35927] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 17:30:39 下午 com.xiaomi.pass [Thread:35931] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 17:30:39 下午 com.xiaomi.pass [Thread:35933] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 18:24:55 下午 com.xiaomi.pass [Thread:36394] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 18:24:55 下午 com.xiaomi.pass [Thread:36398] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 18:25:03 下午 com.xiaomi.pass [Thread:36470] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 18:25:03 下午 com.xiaomi.pass [Thread:36474] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 18:26:42 下午 com.xiaomi.pass [Thread:36563] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 18:26:42 下午 com.xiaomi.pass [Thread:36567] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 18:27:48 下午 com.xiaomi.pass [Thread:36666] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 18:27:48 下午 com.xiaomi.pass [Thread:36671] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 18:28:26 下午 com.xiaomi.pass [Thread:36787] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 18:28:26 下午 com.xiaomi.pass [Thread:36791] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 18:29:08 下午 com.xiaomi.pass [Thread:36959] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 18:29:08 下午 com.xiaomi.pass [Thread:36963] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 18:31:48 下午 com.xiaomi.pass [Thread:37055] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 18:47:14 下午 com.xiaomi.pass [Thread:37264] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 18:47:14 下午 com.xiaomi.pass [Thread:37264] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 18:47:14 下午 com.xiaomi.pass [Thread:37272] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 19:03:46 下午 com.xiaomi.pass [Thread:37362] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 19:03:46 下午 com.xiaomi.pass [Thread:37366] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 19:03:54 下午 com.xiaomi.pass [Thread:37467] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 19:03:55 下午 com.xiaomi.pass [Thread:37471] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 23:42:11 下午 com.xiaomi.pass [Thread:39023] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 23:42:49 下午 com.xiaomi.pass [Thread:39136] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 23:44:18 下午 com.xiaomi.pass [Thread:39223] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 23:45:06 下午 com.xiaomi.pass [Thread:39323] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 23:45:38 下午 com.xiaomi.pass [Thread:39407] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 23:46:16 下午 com.xiaomi.pass [Thread:39507] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 23:52:49 下午 com.xiaomi.pass [Thread:39588] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 23:52:49 下午 com.xiaomi.pass [Thread:39588] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-28 23:52:49 下午 com.xiaomi.pass [Thread:39596] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-28 23:52:49 下午 com.xiaomi.pass [Thread:39597] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 23:52:49 下午 com.xiaomi.pass [Thread:39598] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 23:52:49 下午 com.xiaomi.pass [Thread:39599] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 23:52:49 下午 com.xiaomi.pass [Thread:39600] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-28 23:52:50 下午 com.xiaomi.pass [Thread:39601] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-29 07:48:10 上午 com.xiaomi.pass [Thread:40343] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 07:50:59 上午 com.xiaomi.pass [Thread:40455] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 07:51:19 上午 com.xiaomi.pass [Thread:40554] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 07:53:25 上午 com.xiaomi.pass [Thread:40647] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 08:38:21 上午 com.xiaomi.pass [Thread:40844] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-29 08:38:21 上午 com.xiaomi.pass [Thread:40844] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 08:38:21 上午 com.xiaomi.pass [Thread:40852] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 08:38:23 上午 com.xiaomi.pass [Thread:40853] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-29 08:38:26 上午 com.xiaomi.pass [Thread:40854] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-29 08:38:27 上午 com.xiaomi.pass [Thread:40856] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-29 09:37:21 上午 com.xiaomi.pass [Thread:41207] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 09:37:21 上午 com.xiaomi.pass [Thread:41210] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 09:42:28 上午 com.xiaomi.pass [Thread:41307] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 09:42:43 上午 com.xiaomi.pass [Thread:41396] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-29 09:42:43 上午 com.xiaomi.pass [Thread:41396] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 09:42:43 上午 com.xiaomi.pass [Thread:41403] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 09:48:15 上午 com.xiaomi.pass [Thread:41447] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 09:48:15 上午 com.xiaomi.pass [Thread:41450] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 09:50:19 上午 com.xiaomi.pass [Thread:41538] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 09:50:19 上午 com.xiaomi.pass [Thread:41543] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 09:52:12 上午 com.xiaomi.pass [Thread:41647] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 09:52:12 上午 com.xiaomi.pass [Thread:41651] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 09:53:24 上午 com.xiaomi.pass [Thread:41735] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 09:53:24 上午 com.xiaomi.pass [Thread:41739] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 10:01:13 上午 com.xiaomi.pass [Thread:41847] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 10:01:13 上午 com.xiaomi.pass [Thread:41850] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 10:01:22 上午 com.xiaomi.pass [Thread:41944] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 10:01:22 上午 com.xiaomi.pass [Thread:41947] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 12:41:25 下午 com.xiaomi.pass [Thread:43246] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 12:42:32 下午 com.xiaomi.pass [Thread:43422] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 12:43:09 下午 com.xiaomi.pass [Thread:43515] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 12:44:53 下午 com.xiaomi.pass [Thread:43631] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 12:49:30 下午 com.xiaomi.pass [Thread:43723] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 12:49:33 下午 com.xiaomi.pass [Thread:43726] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-29 12:49:33 下午 com.xiaomi.pass [Thread:43728] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-29 12:49:34 下午 com.xiaomi.pass [Thread:43729] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-29 12:49:34 下午 com.xiaomi.pass [Thread:43730] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-29 12:49:34 下午 com.xiaomi.pass [Thread:43731] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-29 12:52:30 下午 com.xiaomi.pass [Thread:43894] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 12:52:30 下午 com.xiaomi.pass [Thread:43899] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 13:23:00 下午 com.xiaomi.pass [Thread:44095] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 13:23:00 下午 com.xiaomi.pass [Thread:44098] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 14:24:36 下午 com.xiaomi.pass [Thread:44759] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 14:24:50 下午 com.xiaomi.pass [Thread:44851] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 14:27:43 下午 com.xiaomi.pass [Thread:44950] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 14:27:49 下午 com.xiaomi.pass [Thread:45026] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 14:31:24 下午 com.xiaomi.pass [Thread:45096] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-29 14:31:24 下午 com.xiaomi.pass [Thread:45096] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 14:31:24 下午 com.xiaomi.pass [Thread:45104] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 14:31:25 下午 com.xiaomi.pass [Thread:45105] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-29 14:31:25 下午 com.xiaomi.pass [Thread:45106] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-29 14:31:25 下午 com.xiaomi.pass [Thread:45107] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-29 15:12:20 下午 com.xiaomi.pass [Thread:45670] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 15:12:20 下午 com.xiaomi.pass [Thread:45674] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 15:12:38 下午 com.xiaomi.pass [Thread:45767] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 15:12:38 下午 com.xiaomi.pass [Thread:45771] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 15:56:06 下午 com.xiaomi.pass [Thread:46455] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 15:56:12 下午 com.xiaomi.pass [Thread:46543] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 15:56:16 下午 com.xiaomi.pass [Thread:46546] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-29 15:56:16 下午 com.xiaomi.pass [Thread:46548] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-29 15:57:55 下午 com.xiaomi.pass [Thread:46647] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 15:57:55 下午 com.xiaomi.pass [Thread:46651] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 15:58:24 下午 com.xiaomi.pass [Thread:46726] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 15:58:24 下午 com.xiaomi.pass [Thread:46731] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 15:58:33 下午 com.xiaomi.pass [Thread:46819] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 15:58:33 下午 com.xiaomi.pass [Thread:46823] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 16:00:09 下午 com.xiaomi.pass [Thread:46903] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 16:00:09 下午 com.xiaomi.pass [Thread:46907] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 16:11:38 下午 com.xiaomi.pass [Thread:47054] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 16:11:38 下午 com.xiaomi.pass [Thread:47058] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 16:11:45 下午 com.xiaomi.pass [Thread:47146] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 16:11:45 下午 com.xiaomi.pass [Thread:47151] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 16:25:09 下午 com.xiaomi.pass [Thread:47279] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 16:25:09 下午 com.xiaomi.pass [Thread:47282] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 16:25:16 下午 com.xiaomi.pass [Thread:47395] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 16:25:16 下午 com.xiaomi.pass [Thread:47399] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 19:38:38 下午 com.xiaomi.pass [Thread:47995] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 19:38:46 下午 com.xiaomi.pass [Thread:48098] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 19:40:02 下午 com.xiaomi.pass [Thread:48200] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-29 19:40:02 下午 com.xiaomi.pass [Thread:48200] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 19:40:02 下午 com.xiaomi.pass [Thread:48207] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 19:40:02 下午 com.xiaomi.pass [Thread:48208] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-29 20:13:34 下午 com.xiaomi.pass [Thread:48278] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 20:13:34 下午 com.xiaomi.pass [Thread:48282] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 20:14:07 下午 com.xiaomi.pass [Thread:48383] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 20:14:07 下午 com.xiaomi.pass [Thread:48388] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 22:45:50 下午 com.xiaomi.pass [Thread:49555] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 22:47:07 下午 com.xiaomi.pass [Thread:49698] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 22:52:40 下午 com.xiaomi.pass [Thread:49778] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 23:08:56 下午 com.xiaomi.pass [Thread:49924] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-29 23:08:56 下午 com.xiaomi.pass [Thread:49924] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 23:08:56 下午 com.xiaomi.pass [Thread:49932] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 23:08:57 下午 com.xiaomi.pass [Thread:49933] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-29 23:08:57 下午 com.xiaomi.pass [Thread:49933] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-29 23:15:46 下午 com.xiaomi.pass [Thread:50002] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 23:15:47 下午 com.xiaomi.pass [Thread:50006] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-29 23:30:05 下午 com.xiaomi.pass [Thread:50091] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-29 23:30:05 下午 com.xiaomi.pass [Thread:50094] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 07:47:23 上午 com.xiaomi.pass [Thread:50799] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 07:47:38 上午 com.xiaomi.pass [Thread:50928] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 07:47:38 上午 com.xiaomi.pass [Thread:50928] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 07:47:38 上午 com.xiaomi.pass [Thread:50936] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 07:51:49 上午 com.xiaomi.pass [Thread:50994] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 07:51:49 上午 com.xiaomi.pass [Thread:50998] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 07:52:33 上午 com.xiaomi.pass [Thread:51078] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 07:52:33 上午 com.xiaomi.pass [Thread:51082] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 07:53:27 上午 com.xiaomi.pass [Thread:51168] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 07:53:27 上午 com.xiaomi.pass [Thread:51171] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 07:54:17 上午 com.xiaomi.pass [Thread:51251] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 07:54:17 上午 com.xiaomi.pass [Thread:51255] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 09:46:50 上午 com.xiaomi.pass [Thread:52271] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 09:48:27 上午 com.xiaomi.pass [Thread:52355] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 09:53:42 上午 com.xiaomi.pass [Thread:52507] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 09:53:48 上午 com.xiaomi.pass [Thread:52591] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 09:53:51 上午 com.xiaomi.pass [Thread:52594] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 09:53:51 上午 com.xiaomi.pass [Thread:52596] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 09:53:52 上午 com.xiaomi.pass [Thread:52597] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 09:53:52 上午 com.xiaomi.pass [Thread:52598] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 09:56:01 上午 com.xiaomi.pass [Thread:52903] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 09:56:01 上午 com.xiaomi.pass [Thread:52906] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 09:56:09 上午 com.xiaomi.pass [Thread:52999] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 09:56:09 上午 com.xiaomi.pass [Thread:53003] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 10:05:48 上午 com.xiaomi.pass [Thread:53215] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 10:05:48 上午 com.xiaomi.pass [Thread:53218] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 10:07:52 上午 com.xiaomi.pass [Thread:53307] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 10:07:52 上午 com.xiaomi.pass [Thread:53311] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 10:46:11 上午 com.xiaomi.pass [Thread:53646] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 10:46:11 上午 com.xiaomi.pass [Thread:53650] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 10:46:49 上午 com.xiaomi.pass [Thread:53731] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 10:46:49 上午 com.xiaomi.pass [Thread:53735] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 11:00:21 上午 com.xiaomi.pass [Thread:53846] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 11:00:27 上午 com.xiaomi.pass [Thread:53939] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 11:00:39 上午 com.xiaomi.pass [Thread:53942] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 11:00:39 上午 com.xiaomi.pass [Thread:53944] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 11:16:54 上午 com.xiaomi.pass [Thread:54127] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 11:16:54 上午 com.xiaomi.pass [Thread:54131] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 11:16:59 上午 com.xiaomi.pass [Thread:54211] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 11:16:59 上午 com.xiaomi.pass [Thread:54215] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 14:39:10 下午 com.xiaomi.pass [Thread:56062] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 14:39:17 下午 com.xiaomi.pass [Thread:56160] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 14:40:12 下午 com.xiaomi.pass [Thread:56231] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 14:40:45 下午 com.xiaomi.pass [Thread:56319] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 14:40:51 下午 com.xiaomi.pass [Thread:56391] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 14:40:57 下午 com.xiaomi.pass [Thread:56478] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 14:41:01 下午 com.xiaomi.pass [Thread:56482] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 14:41:01 下午 com.xiaomi.pass [Thread:56482] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 14:41:01 下午 com.xiaomi.pass [Thread:56482] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 14:41:01 下午 com.xiaomi.pass [Thread:56482] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 14:41:01 下午 com.xiaomi.pass [Thread:56482] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 14:41:01 下午 com.xiaomi.pass [Thread:56484] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 15:19:30 下午 com.xiaomi.pass [Thread:56867] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 15:19:30 下午 com.xiaomi.pass [Thread:56870] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 15:20:22 下午 com.xiaomi.pass [Thread:56959] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 15:20:22 下午 com.xiaomi.pass [Thread:56962] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 15:20:29 下午 com.xiaomi.pass [Thread:57055] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 15:20:29 下午 com.xiaomi.pass [Thread:57058] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 15:22:03 下午 com.xiaomi.pass [Thread:57244] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 15:22:03 下午 com.xiaomi.pass [Thread:57247] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 15:22:09 下午 com.xiaomi.pass [Thread:57327] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 15:22:09 下午 com.xiaomi.pass [Thread:57330] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 15:48:21 下午 com.xiaomi.pass [Thread:57582] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 15:48:28 下午 com.xiaomi.pass [Thread:57663] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 15:48:36 下午 com.xiaomi.pass [Thread:57671] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 15:48:37 下午 com.xiaomi.pass [Thread:57673] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 16:16:22 下午 com.xiaomi.pass [Thread:58018] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 16:16:22 下午 com.xiaomi.pass [Thread:58022] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 16:16:30 下午 com.xiaomi.pass [Thread:58151] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 16:16:30 下午 com.xiaomi.pass [Thread:58155] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 16:17:11 下午 com.xiaomi.pass [Thread:58236] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 16:17:11 下午 com.xiaomi.pass [Thread:58239] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 16:17:50 下午 com.xiaomi.pass [Thread:58323] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 16:17:50 下午 com.xiaomi.pass [Thread:58327] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 16:42:44 下午 com.xiaomi.pass [Thread:58559] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 16:42:44 下午 com.xiaomi.pass [Thread:58562] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 16:42:51 下午 com.xiaomi.pass [Thread:58646] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 16:42:51 下午 com.xiaomi.pass [Thread:58651] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 17:14:19 下午 com.xiaomi.pass [Thread:59231] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 17:20:14 下午 com.xiaomi.pass [Thread:59411] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 17:20:18 下午 com.xiaomi.pass [Thread:59414] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 17:20:20 下午 com.xiaomi.pass [Thread:59417] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 18:02:26 下午 com.xiaomi.pass [Thread:60186] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 18:02:26 下午 com.xiaomi.pass [Thread:60190] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 18:02:41 下午 com.xiaomi.pass [Thread:60279] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 18:02:41 下午 com.xiaomi.pass [Thread:60283] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 18:04:02 下午 com.xiaomi.pass [Thread:60395] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 18:04:02 下午 com.xiaomi.pass [Thread:60398] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 18:06:02 下午 com.xiaomi.pass [Thread:60486] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 18:06:02 下午 com.xiaomi.pass [Thread:60491] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 18:27:33 下午 com.xiaomi.pass [Thread:60691] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 18:29:18 下午 com.xiaomi.pass [Thread:60790] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 18:30:45 下午 com.xiaomi.pass [Thread:60883] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 18:31:10 下午 com.xiaomi.pass [Thread:60971] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 18:32:05 下午 com.xiaomi.pass [Thread:61059] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 18:32:53 下午 com.xiaomi.pass [Thread:61151] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 18:33:25 下午 com.xiaomi.pass [Thread:61154] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 18:33:25 下午 com.xiaomi.pass [Thread:61154] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 18:33:25 下午 com.xiaomi.pass [Thread:61154] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 18:33:25 下午 com.xiaomi.pass [Thread:61154] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 18:33:25 下午 com.xiaomi.pass [Thread:61154] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 18:33:25 下午 com.xiaomi.pass [Thread:61154] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 18:34:16 下午 com.xiaomi.pass [Thread:61271] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 18:34:16 下午 com.xiaomi.pass [Thread:61275] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 18:34:22 下午 com.xiaomi.pass [Thread:61363] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 18:34:22 下午 com.xiaomi.pass [Thread:61367] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 19:26:13 下午 com.xiaomi.pass [Thread:61996] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 19:26:13 下午 com.xiaomi.pass [Thread:62003] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 22:23:58 下午 com.xiaomi.pass [Thread:63230] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 22:24:23 下午 com.xiaomi.pass [Thread:63319] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 22:24:29 下午 com.xiaomi.pass [Thread:63323] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 22:24:29 下午 com.xiaomi.pass [Thread:63325] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 22:25:09 下午 com.xiaomi.pass [Thread:63420] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 22:25:09 下午 com.xiaomi.pass [Thread:63423] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 22:25:52 下午 com.xiaomi.pass [Thread:63500] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 22:25:52 下午 com.xiaomi.pass [Thread:63504] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 22:27:47 下午 com.xiaomi.pass [Thread:63715] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 22:27:47 下午 com.xiaomi.pass [Thread:63718] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 22:41:06 下午 com.xiaomi.pass [Thread:63798] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 22:41:06 下午 com.xiaomi.pass [Thread:63802] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 22:42:34 下午 com.xiaomi.pass [Thread:63947] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 22:42:34 下午 com.xiaomi.pass [Thread:63951] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 22:54:45 下午 com.xiaomi.pass [Thread:64050] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 22:54:45 下午 com.xiaomi.pass [Thread:64054] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 23:27:04 下午 com.xiaomi.pass [Thread:64650] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 23:27:20 下午 com.xiaomi.pass [Thread:64750] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 23:27:36 下午 com.xiaomi.pass [Thread:64834] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+11-30 23:27:36 下午 com.xiaomi.pass [Thread:64834] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+11-30 23:27:36 下午 com.xiaomi.pass [Thread:64839] onCommandResult is called. command={set-account}, resultCode={0}, reason={null}, category={null}, commandArguments={[890183393]} 
+11-30 23:27:36 下午 com.xiaomi.pass [Thread:64840] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+12-08 17:46:42 下午 com.xiaomi.pass [Thread:626] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+12-08 17:46:42 下午 com.xiaomi.pass [Thread:630] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+12-14 10:37:39 上午 com.xiaomi.pass [Thread:4482] onCommandResult is called. command={register}, resultCode={0}, reason={null}, category={null}, commandArguments={[TKAd2GjTe5YDvhyet2p7MSVsn0luk8QXL4tg1aHQ6CE=]} 
+12-14 10:37:39 上午 com.xiaomi.pass [Thread:4484] onCommandResult is called. command={set-account}, resultCode={0}, reason={duplicated user account}, category={null}, commandArguments={[890183393]} 
+12-14 10:37:39 上午 com.xiaomi.pass authentication failure for get, code: 401 
+com.xiaomi.accountsdk.request.AuthenticationFailureException: authentication failure for get, code: 401
+	at com.xiaomi.accountsdk.request.SimpleRequest.getAsString(SimpleRequest.java:198)
+	at com.xiaomi.accountsdk.request.SecureRequest.getAsString(SecureRequest.java:52)
+	at com.xiaomi.accountsdk.request.SecureRequest.getAsString(SecureRequest.java:36)
+	at com.xiaomi.pass.c.d.a(HttpHelper.java:125)
+	at com.xiaomi.pass.c.v.a(PassManager.java:723)
+	at com.xiaomi.pass.c.k.a(PassManager.java:765)
+	at com.xiaomi.pass.c.k.a(PassManager.java:740)
+	at com.xiaomi.pass.c.k.d(PassManager.java:525)
+	at com.xiaomi.pass.dz.doInBackground(PassRemoteService.java:55)
+	at android.os.AsyncTask$2.call(AsyncTask.java:295)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1113)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:588)
+	at java.lang.Thread.run(Thread.java:818)
+
+12-14 10:37:41 上午 com.xiaomi.pass null 
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.FutureTask.get(FutureTask.java:177)
+	at com.xiaomi.pass.PassRemoteService.a(PassRemoteService.java:65)
+	at com.xiaomi.pass.PassRemoteService.a(PassRemoteService.java:25)
+	at com.xiaomi.pass.PassRemoteService$PassInfoBinder.a(PassRemoteService.java:46)
+	at com.xiaomi.pass.IPassInfoAidlInterface$Stub.onTransact(IPassInfoAidlInterface.java:50)
+	at android.os.Binder.execTransact(Binder.java:453)
+
+12-14 10:37:41 上午 com.xiaomi.pass [Thread:4468] Status JSON: {"red":false} 
+12-14 10:39:47 上午 com.xiaomi.pass [Thread:4469] Status JSON: {"red":false} 
+12-14 10:50:13 上午 com.xiaomi.pass null 
+java.util.concurrent.TimeoutException
+	at java.util.concurrent.FutureTask.get(FutureTask.java:177)
+	at com.xiaomi.pass.PassRemoteService.a(PassRemoteService.java:65)
+	at com.xiaomi.pass.PassRemoteService.a(PassRemoteService.java:25)
+	at com.xiaomi.pass.PassRemoteService$PassInfoBinder.a(PassRemoteService.java:46)
+	at com.xiaomi.pass.IPassInfoAidlInterface$Stub.onTransact(IPassInfoAidlInterface.java:50)
+	at android.os.Binder.execTransact(Binder.java:453)
+
+12-14 10:50:13 上午 com.xiaomi.pass [Thread:4481] Status JSON: {"red":false} 
